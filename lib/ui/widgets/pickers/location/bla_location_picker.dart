@@ -1,4 +1,3 @@
-import 'package:blabla/services/location_service.dart';
 import 'package:blabla/ui/widgets/display/bla_divider.dart';
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
